@@ -1,0 +1,20 @@
+Description of Each View:
+
+• Admin View:
+	Add, modify and remove doctors and receptionists and  the ability to add and modify patients records, but cannot remove it due to HIPPA Regulations.
+	Modify the inventory and add the equipments.
+
+• Doctor View:
+	Add and remove a receptionist.
+	Create, modify and remove treatment plans of patients.
+	Add and remove prescripiton of patients.
+
+• Receptionist View:
+	Add and modify patients.
+	Control the billing of patients.
+	Modify the inventory in case the clinic runs out of prescriptions or medication.
+
+• Patient View:
+	Show the dental record of the patient in detail.
+	Show the past and future appointments.
+	Include the radiology, prescriptions, treatment plans and referrals.
